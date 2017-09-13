@@ -1,2 +1,2 @@
-# gocommon
-go common library for mywork.
+# GoCommon
+Go Common library for mywork.
